@@ -75,9 +75,12 @@ footer p {
 .container p {
   color: red;
   font-family: Algerian, serif;
-  font-weight: bold;      /* thoda strong effect ke liye */
-  text-shadow: 1px 1px 2px black;  /* background ke against clearly dikhne ke liye */
+  font-weight: bold;
+  text-shadow: 1px 1px 2px black;   /* depth ke liye */
+  -webkit-text-stroke: 1px white;   /* white border effect */
 }
+
+
 
 
 
