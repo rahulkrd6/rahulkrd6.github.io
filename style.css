@@ -73,12 +73,13 @@ footer p {
 /* 🔽 Rahul ka intro text (center me) */
 .container h2,
 .container p {
-  color: red;
+  color: green;
   font-family: Algerian, serif;
   font-weight: bold;
   text-shadow: 0.5px 0.5px 1px black;   /* halki si depth */
   -webkit-text-stroke: 0.3px white;     /* bahut patla white border */
 }
+
 
 
 
